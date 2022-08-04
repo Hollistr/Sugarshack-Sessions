@@ -1,4 +1,4 @@
-main {
+body {
     background: lightskyblue
 }
 header {
@@ -15,6 +15,30 @@ main {
 }
 header {
     border-bottom: 1px solid lightskyblue;
-}footer {
+}
+footer {
     margin-top: 0px;
+}
+H1 {
+    text-align: center;
+}
+H2 {
+    text-align: center;
+}
+p {text-align: center;
+}
+nav {
+    justify-content: center
+}
+li a {
+    display: inline;
+    padding: 0px;
+}
+nav li {
+    display: inline;
+    padding: 50px;
+}
+.center-content {
+    display: inline-block;
+    padding: 10px;
 }
