@@ -28,7 +28,7 @@ H2 {
 p {text-align: center;
 }
 nav {
-    justify-content: center
+    justify-content: center;
 }
 li a {
     display: inline;
@@ -40,5 +40,5 @@ nav li {
 }
 .center-content {
     display: inline-block;
-    padding: 10px;
+    padding: 100px;
 }
